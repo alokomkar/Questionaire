@@ -5,6 +5,7 @@
 4. https://developer.android.com/topic/libraries/architecture/viewmodel
 5. https://blog.mindorks.com/android-viewmodels-under-the-hood
 6. https://developer.android.com/training/testing
+7. https://getstream.io/blog/jetpack-compose-guidelines/
 
 
 
